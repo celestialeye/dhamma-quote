@@ -1,0 +1,1 @@
+The Dhamma Quote bot is a bot that can understand user inputs and return Buddhism quotes from various popular books such as the Dhammapada.
